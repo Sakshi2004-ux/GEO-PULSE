@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+*.pem
+
+# IDE
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Generated data (review before committing)
+data/raw/
+data/processed/
